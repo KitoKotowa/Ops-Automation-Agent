@@ -1,0 +1,16 @@
+[
+  {"customer_id": "C001", "name": "Maya Chen", "email": "maya@example.com", "tier": "vip", "lifetime_value": 420.0,
+   "subscription": {"plan": "Monthly Roast Box", "status": "active", "failed_payment_attempts": 0}},
+  {"customer_id": "C002", "name": "Jordan Lee", "email": "jordan@example.com", "tier": "standard", "lifetime_value": 85.0,
+   "subscription": {"plan": "Monthly Roast Box", "status": "active", "failed_payment_attempts": 0}},
+  {"customer_id": "C003", "name": "Sam Patel", "email": "sam@example.com", "tier": "standard", "lifetime_value": 160.0,
+   "subscription": {"plan": "Bi-weekly Espresso", "status": "past_due", "failed_payment_attempts": 3}},
+  {"customer_id": "C004", "name": "Alex Rivera", "email": "alex@example.com", "tier": "standard", "lifetime_value": 240.0,
+   "subscription": {"plan": "Monthly Roast Box", "status": "active", "failed_payment_attempts": 0}},
+  {"customer_id": "C005", "name": "Priya Nair", "email": "priya@example.com", "tier": "standard", "lifetime_value": 60.0,
+   "subscription": {"plan": "Monthly Roast Box", "status": "cancelled", "failed_payment_attempts": 0}},
+  {"customer_id": "C006", "name": "Chris Okafor", "email": "chris@example.com", "tier": "standard", "lifetime_value": 58.0,
+   "subscription": {"plan": "Monthly Roast Box", "status": "active", "failed_payment_attempts": 0}},
+  {"customer_id": "C007", "name": "Taylor Brooks", "email": "taylor@example.com", "tier": "vip", "lifetime_value": 510.0,
+   "subscription": {"plan": "Bi-weekly Espresso", "status": "paused", "failed_payment_attempts": 0}}
+]

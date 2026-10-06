@@ -1,0 +1,8 @@
+anthropic>=1.11
+openai>=3.20
+google-genai>=2.25
+pydantic>=2.7
+rich>=13
+streamlit>=1.50
+pandas>=2
+pytest>=8
